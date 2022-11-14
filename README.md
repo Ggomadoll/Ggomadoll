@@ -1,5 +1,5 @@
 <div align=center><h1> Hi there 👋</h1></div>
-<div align=center>안녕하세요, 늘 꿈꾸는 개발자 이명환입니다. <br> Html, React 등 프론트앤드에 관한 기술 전반에 관심을 고 공부하고 있습니다</div>
+<div align=center>안녕하세요, 늘 꿈꾸는 개발자 이명환입니다. <br> Html, React 등 프론트앤드에 관한 기술 전반에 관심을 가지고 공부하고 있습니다.</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
